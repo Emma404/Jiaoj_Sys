@@ -40,7 +40,7 @@ var CaseItem = Vue.extend({
         $(".menu-icon").css("line-height", 1);
         $(".case-item-title").css("font-size", s * 0.7);
         $(".case-item-title").css("margin-top", -s * 0.1);
-    }
+    }   
 
 });
 

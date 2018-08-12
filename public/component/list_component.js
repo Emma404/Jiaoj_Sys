@@ -14,7 +14,7 @@ var TextInput = Vue.extend({
             input_name: this.params.id,
             input_id: 'id_' + this.params.id
         };
-    }
+    } 
 });
 
 //数字形式
